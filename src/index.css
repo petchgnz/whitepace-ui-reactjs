@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  /* Fonts */
+  --font-primary: "Inter", sans-serif;
+  --font-secondary: "Popping", sans-serif;
+
+  /* Colors */
+  --color-primaryBlue: #043873;
+  --color-primaryBlueDark: #032d5a;
+  --color-primaryCyan: #4fc9f9;
+  --color-primaryCyanDark: #07b6f8;
+
+  --color-secondaryYellow: #ffe492;
+  --color-secondaryYellowDark: #ffd042;
+  --color-secondaryCyan: #a7cefc;
+  --color-secondaryCyanDark: #86bbfb;
+  --color-secondaryBlack: #212529;
+}
