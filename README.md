@@ -1,7 +1,7 @@
 # 🧩 Whitepace SaaS Landing Page (React + Tailwind CSS)
 
 The **Whitepace Landing Page** is a mock-up of a SaaS project management product's landing page, built using **React** and **Tailwind CSS**.  
-It showcases modern design slicing, responsive layouts, and reusable React components — ideal for demonstrating front-end design and component architecture skills.
+It showcases modern design slicing and reusable React components — ideal for demonstrating front-end design and component architecture skills. ***responsive layouts is coming soon***
 
 ---
 
@@ -25,7 +25,6 @@ This landing page is organized into **modular components** for easy management a
 | **Frontend Framework** | [React](https://reactjs.org/) (Functional Components + JSX) |
 | **Styling** | [Tailwind CSS](https://tailwindcss.com/) (Utility-first styling) |
 | **Icons** | [Lucide React](https://lucide.dev/docs/lucide-react) |
-| **Structure** | Single file: `LandingPage.jsx` for an immersive build environment |
 
 ---
 
@@ -35,8 +34,7 @@ This landing page is organized into **modular components** for easy management a
 
 This project assumes you have an existing **React project** (e.g., created with **Vite** or **Create React App**) and **Tailwind CSS** already installed.
 
-Copy the contents of `LandingPage.jsx` and replace the content in your main React component file (e.g., `src/App.jsx`).
-
+Clone this repository to your device and check it out.
 ---
 
 ### 2️⃣ Install Dependencies
